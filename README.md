@@ -24,6 +24,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - Official CBPS Minecraft Server -> mc.cbps.xyz (Inactive)
 
 ## Website Repos
+- CBPS -> https://github.com/Team-CBPS/cbps
 - CBPS-DB -> https://github.com/Team-CBPS/cbps-db
 
 ## Project Status
