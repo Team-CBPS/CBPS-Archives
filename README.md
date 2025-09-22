@@ -38,7 +38,13 @@ The full archives of Celeste Brigade's Portal of Stuff
   - [ ] PS5 FW Archives
   - [ ] CBPS Archives
   - [ ] Official CBPS Minecraft Server
+     
+## BONUS
+- (Old) Vitatricks -> https://vitatricks.xyz
+- (Archived) Vitatricks -> https://vitatricks.xo.je
+- (Repo) Vitatricks -> https://github.com/Team-CBPS/vitatricks
+- [ ] Vitatricks
 
-- Project's Archival Status: 10% done
+- Project's Archival Status: 15% done
 
 &copy; Celeste Brigade's Portal of Stuff (CBPS). LONG LIVE THE CBPS!!!
