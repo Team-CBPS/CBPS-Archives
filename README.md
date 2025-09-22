@@ -45,6 +45,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - (Repo) Vitatricks -> https://github.com/Team-CBPS/vitatricks
 - [ ] Vitatricks
 
+## Status
 - Project's Archival Status: 15% done
 
 &copy; Celeste Brigade's Portal of Stuff (CBPS). LONG LIVE THE CBPS!!!
