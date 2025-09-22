@@ -26,6 +26,8 @@ The full archives of Celeste Brigade's Portal of Stuff
 ## Website Repos
 - CBPS -> https://github.com/Team-CBPS/cbps
 - CBPS-DB -> https://github.com/Team-CBPS/cbps-db
+- CBPS Forums -> https://github.com/Team-CBPS/cbps-forum
+- ECDP Login Generator -> https://github.com/Team-CBPS/cbps-ecdp
 
 ## Project Status
 - [ ] All Websites Archived
