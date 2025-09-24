@@ -2,7 +2,7 @@
 The full archives of Celeste Brigade's Portal of Stuff
 
 ## Archived Websites
-- CBPS -> https://cbps.xo.je (Unfinished)
+- CBPS -> https://cbps.xo.je
 - CBPS-DB -> https://cbps-db.xo.je (Unfinished)
 - CBPS Forums -> https://cbps-forum.xo.je (Not Archived Yet, will take a lot of time)
 - DolceSDK -> https://cbps-sdk.xo.je (Not Archived Yet, need backup of the SDK)
@@ -42,7 +42,7 @@ The full archives of Celeste Brigade's Portal of Stuff
   - [ ] Official CBPS Minecraft Server
      
 ## BONUS
-- (Old) Vitatricks -> https://vitatricks.xyz
+- (Old) Vitatricks (Active) -> https://vitatricks.xyz
 - (Archived) Vitatricks -> https://vitatricks.xo.je
 - (Repo) Vitatricks -> https://github.com/Team-CBPS/vitatricks
 - [X] Vitatricks
