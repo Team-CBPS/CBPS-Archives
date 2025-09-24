@@ -31,7 +31,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 
 ## Project Status
 - [ ] All Websites Archived
-  - [ ] CBPS
+  - [X] CBPS
   - [ ] CBPS-DB
   - [ ] CBPS Forums
   - [ ] DolceSDK
@@ -45,7 +45,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - (Old) Vitatricks -> https://vitatricks.xyz
 - (Archived) Vitatricks -> https://vitatricks.xo.je
 - (Repo) Vitatricks -> https://github.com/Team-CBPS/vitatricks
-- [ ] Vitatricks
+- [X] Vitatricks
 
 ## Status
 - Project's Archival Status: 15% done
