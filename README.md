@@ -7,7 +7,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - CBPS Forums -> https://cbps-forum.xo.je (Not Archived Yet, will take a lot of time)
 - DolceSDK -> https://cbps-sdk.xo.je (Not Archived Yet, need backup of the SDK)
 - 3DS Gateway -> https://cbps.xo.je/3ds (Not Archived Yet)
-- ECDP Login Generator -> https://cbps-ecdp.xo.je (Not Archived Yet)
+- ECDP Login Generator -> https://cbps-ecdp.xo.je
 - PS5 FW Archives -> https://cbps-ps5.xo.je (Not Archived Yet, need a strong free cloud service)
 - CBPS Archives -> https://cbps-files.xo.je (Not Archived yet, need a strong free cloud service)
 - Official CBPS Minecraft Server -> cbps-mc.aternos.me (opened only on demands made by you)
