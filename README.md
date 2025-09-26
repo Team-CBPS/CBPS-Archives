@@ -5,7 +5,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - CBPS -> https://cbps.xo.je
 - CBPS-DB -> https://cbps-db.xo.je (Unfinished)
 - CBPS Forums -> https://cbps-forum.xo.je (Not Archived Yet, will take a lot of time)
-- DolceSDK -> https://cbps-sdk.xo.je (Not Archived Yet, need backup of the SDK)
+- DolceSDK -> https://cbps-sdk.xo.je (Website archived, need backup of the SDK)
 - 3DS Gateway -> https://cbps.xo.je/3ds (Not Archived Yet)
 - ECDP Login Generator -> https://cbps-ecdp.xo.je
 - PS5 FW Archives -> https://cbps-ps5.xo.je (Not Archived Yet, need a strong free cloud service)
@@ -27,6 +27,7 @@ The full archives of Celeste Brigade's Portal of Stuff
 - CBPS -> https://github.com/Team-CBPS/cbps
 - CBPS-DB -> https://github.com/Team-CBPS/cbps-db
 - CBPS Forums -> https://github.com/Team-CBPS/cbps-forum
+- DolceSDK -> https://github.com/Team-CBPS/cbps-sdk
 - ECDP Login Generator -> https://github.com/Team-CBPS/cbps-ecdp
 
 ## Project Status
@@ -36,7 +37,7 @@ The full archives of Celeste Brigade's Portal of Stuff
   - [ ] CBPS Forums
   - [ ] DolceSDK
   - [ ] 3DS Gateway
-  - [ ] ECDP Login Generator
+  - [X] ECDP Login Generator
   - [ ] PS5 FW Archives
   - [ ] CBPS Archives
   - [ ] Official CBPS Minecraft Server
