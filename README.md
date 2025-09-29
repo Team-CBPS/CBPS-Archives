@@ -2,14 +2,15 @@
 The full archives of Celeste Brigade's Portal of Stuff
 
 ## Archived Websites
-- CBPS -> https://cbps.xo.je
-- CBPS-DB -> https://cbps-db.xo.je (Unfinished)
-- CBPS Forums -> https://cbps-forum.xo.je (Not Archived Yet, will take a lot of time)
-- DolceSDK -> https://cbps-sdk.xo.je (Website archived, need backup of the SDK)
+- CBPS -> https://cbps.xo.je (Completed)
+- CBPS-DB -> https://cbps-db.xo.je (90% done)
+- CBPS Forums -> https://cbps-forum.xo.je (Not Archived Yet, will take A LOT of time)
+- [DolceSDK](https://github.com/DolceSDK2) -> https://cbps-sdk.xo.je (Website archived, need backup of the SDK. Currently only have autobuilds)
 - 3DS Gateway -> https://cbps.xo.je/3ds (Not Archived Yet)
-- ECDP Login Generator -> https://cbps-ecdp.xo.je
+- ECDP Login Generator -> https://cbps-ecdp.xo.je (Completed)
 - PS5 FW Archives -> https://cbps-ps5.xo.je (Not Archived Yet, need a strong free cloud service)
 - CBPS Archives -> https://cbps-files.xo.je (Not Archived yet, need a strong free cloud service)
+- CBPS Git -> https://cbps-git.xo.je (Not Archived Yet, unsure of how to proceed. Any help would be great!)
 - Official CBPS Minecraft Server -> cbps-mc.aternos.me (opened only on demands made by you)
 
 ## Old Websites
@@ -40,15 +41,16 @@ The full archives of Celeste Brigade's Portal of Stuff
   - [X] ECDP Login Generator
   - [ ] PS5 FW Archives
   - [ ] CBPS Archives
+  - [ ] CBPS Git
   - [ ] Official CBPS Minecraft Server
      
 ## BONUS
 - (Old) Vitatricks (Active) -> https://vitatricks.xyz
-- (Archived) Vitatricks -> https://vitatricks.xo.je
+- (Archived) Vitatricks (Completed) -> https://vitatricks.xo.je
 - (Repo) Vitatricks -> https://github.com/Team-CBPS/vitatricks
 - [X] Vitatricks
 
 ## Status
-- Project's Archival Status: 15% done
+- Project's Archival Status: 20% done
 
 &copy; Celeste Brigade's Portal of Stuff (CBPS). LONG LIVE THE CBPS!!!
